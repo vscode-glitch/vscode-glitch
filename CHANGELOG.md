@@ -4,6 +4,18 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [0.1.5] - 2019-12-27
+### Fixed
+- Error reporting regression in 0.1.4
+
+## [0.1.4] - 2019-12-25
+### Changed
+- Improved error handling
+- Reduced file size
+
+### Fixed
+- Debugger command working again (that section of README also updated)
+
 ## [0.1.3] - 2019-08-07
 ### Added
 - "Show Diagnostic Information" command: opens a read-only document with environment information to include in issue reports
